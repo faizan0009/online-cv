@@ -3,13 +3,13 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Faizan Ahmad
     tagline: Full Stack Developer
-    avatar: test.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Cover photo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: faizann.ahmad1@gmail.com
@@ -103,68 +103,34 @@ projects:
         link: "#"
         tagline: "CreditPer is a brand by CreditFix Financial Services Ltd that offers a lending platform that does data-driven decision making and assessment for individuals and small businesses with speed and the ability to entertain"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: JavaScript (ES9, Typescript)
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Node.js | Express.js
         level: 98%
 
-      - name: Angular
+      - name: React | AntDesign | Material UI
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: HTML5 & CSS3
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: SQL | PostgreSQL
+        level: 70%
 
-      - name: Sketch & Photoshop
+      - name: Redis | Kafka | rabbitMQ
         level: 60%
+        
+      - name: Docker | Kubernetes
+        level: 50%
+        
+      - name: Python
+        level: 50%
+        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
