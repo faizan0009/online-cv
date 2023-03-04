@@ -41,29 +41,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Forward-thinking Software Engineer with background working effectively in dynamic environments. Experienced, detailed-oriented, web developer with 6+ years of hands-on experience. Would jump at any opportunity to continue growing my skillset. Proud team player focused on achieving project objectives with speed and accuracy.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Computer Science
+        university: Comstats Islamabad
+        time: 2013 - 2017
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -75,21 +59,19 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+      - role: Senior Software Engineer
+        time: Jan 2018 - Present
+        company: glasc.io, Johannesburg, South Africa
+        details: 
+            - Responsible for developing high-quality software design and architecture
+            - Played an active role in all stages of application development- requirements gathering, analysis and design, development, testing and debugging
+            - Actively involved developing proof of concept for a newly proposed application
+            - Working experience with Typescript new features type restrictions, decorators, arrow functions, classes, interfaces, modules (import and exports)
+            - Responsible for ensuring the pattern consistency across all pages
+            - Develop and execute unit, functional, integration testing of developed software components
+            - Deliver quality code by applying the best development practices
+            - Build and execute API functional and performance test plans
+            - Followed Agile/Scrum methodology of software development thereby satisfying the customer through early and continuous delivery of valuable software
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
