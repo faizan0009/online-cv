@@ -72,54 +72,36 @@ experiences:
             - Deliver quality code by applying the best development practices
             - Build and execute API functional and performance test plans
             - Followed Agile/Scrum methodology of software development thereby satisfying the customer through early and continuous delivery of valuable software
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Full Stack Developer
+        time: Apr 2017 - Dec 2018
+        company: Creditfix, Islamabad, Pakistan
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Closely worked with business system analyst to understand the requirements to ensure that right set of UI modules been built
+            - Participated in day-to-day meeting, status meeting, strong reporting and effective communication with project manager and developers
+            - Implemented stable and stand-alone React components to be added to any future pages
+            - Assisted graphic artists and manufacturing team with issues and system performance in real-time
+            - Responsible for design and development of the web pages from mock- ups, integrating third party REACT libraries
+            - Reviewed code, debugged problems and corrected issues
+            - Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs and enhancements
+            - Built, tested and deployed scalable, highly available and modular software products
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Key Projects
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Turing Insights
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Realtime trucking weight & motion tracking, analytics calculation & fleet management"
 
-      - title: Tempo
+      - title: Aquila EHR
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Electronic health record platform for management of multiple practices, providers, patient appointments and scheduling"
 
-      - title: Atom
+      - title: LeZa
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A cloud-based security gateway for application services and APIs; provides a modern security access platform for all cloud- based and legacy on-prem apps"
 
-      - title: Delta
+      - title: CreditPer
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "CreditPer is a brand by CreditFix Financial Services Ltd that offers a lending platform that does data-driven decision making and assessment for individuals and small businesses with speed and the ability to entertain"
 
 oss:
     title: OSS Contributions
